@@ -38,3 +38,5 @@ O comando add é utilizado para adicionar um stage (git add .)
 O comando commit serve para enviar para o repositório(git commit -m 'mensagem .git')
 O comando push serve para enviar as alterações do repositório local para o github (git push)
 git add . && git commit -m 'Efetua todos os comandos de uma vez .git' && git push
+o touch integra.dat criou um arquivo .dat
+git rm --cached integra.dat esta deletando o integra
