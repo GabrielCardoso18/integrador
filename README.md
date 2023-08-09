@@ -34,6 +34,9 @@ HEAD: O "HEAD" é uma "ref" especial que representa a posição atual do usuári
 Tags: As "refs" de tags são ponteiros estáticos que apontam para commits específicos e são usadas para marcar versões importantes ou marcos no histórico do repositório. Ao contrário dos branches, as "refs" de tags não são atualizadas automaticamente quando novos commits são feitos.
 Remotes: As "refs" de repositórios remotos apontam para os branches em repositórios remotos. Elas são usadas para rastrear o estado do repositório remoto e permitir que você atualize sua cópia local com as mudanças feitas por outros colaboradores.
 
+#### Descricao do repositorio remoto
+
+
 O comando add é utilizado para adicionar um stage (git add .)
 O comando commit serve para enviar para o repositório(git commit -m 'mensagem .git')
 O comando push serve para enviar as alterações do repositório local para o github (git push)
